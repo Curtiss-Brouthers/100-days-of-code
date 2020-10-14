@@ -1,22 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: October 13, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: HTML work on Memory Spaces Website
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I like using templates and changing the code. I also need to start from scratch. I will edit the template we have on FH live websites which needs updates. Then I will spend a little time working on Memory Spaces HTML for later use when a domain and hosting become available. I may just use Github Pages. The markdown for Memory Spaces can also be mirrored to the blog. Not sure if that will be necessary, the blog may be worthless. Need to fix width of LinkedIn post, doesn't look good on mobile. Could use some graphics.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Memory Spaces](http://www.memory.spaces) <!-- need domain and hosting --> [Founding Hackers](https://www.foundinghackers.com) 
 
 
 ### Day 1: June 27, Monday

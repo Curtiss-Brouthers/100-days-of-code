@@ -18,7 +18,7 @@
 
 ### Day 2: October 16, Friday
 
-**Today's Progress**: Basic HTML and Memory Spaces
+**Today's Progress**: Basic HTML and Memory Spaces. The outline of headings and subheadings is good. Need CSS for the lists.
 
 **Thoughts** I did a little more freecodecamp to warm up and gain some insights and skills. Then I took what I learned and started working on Memory Spaces.
 

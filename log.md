@@ -9,11 +9,11 @@
 **Link to work:** [Memory Spaces](http://www.memory.spaces) <!-- need domain and hosting --> [Founding Hackers](https://www.foundinghackers.com) 
 
 
-### Day 1: June 27, Monday
+### Day 1: October 15, Thursday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Introduction to Basic HTML and HTML5
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've got my hands full. Much of my hour is getting set up, and then focusing on coding. I am still trying to resolve an issue with FH Website. I am think I can fix it, but just trying to read it is not successful. I thin I can find the answer tomorrow, I just want to mkae sure I don't waste time at the end of the night searching for something that may end up making me lose sleep. I am even counting this log as part of my hour. It is markdown so I think it counts. I like VS Code and it is beginning to make more sense. I will work on both sites tomorrow. Today was a bit of a struggle bus with my Thesis and the Writing Manuscript for GAP. I have a lot of work to do, so I may end up coding first to get it out of the way and to ensure that my time management for my coursework is still good. I did go through some tutorials, which apparently don't count. I would like to dispute that because freecodecamp to me is coding. My personal opinion and I think it is in the intent. It is active programming as opposed to video tutorials where you sit and watch someone else code. Anyway, plan for tomorrow: some more freecodecamp, Memory Spaces website with the pitch script in markdown, and FH Website LinkedIn embed fix for mobile.  
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)

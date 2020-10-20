@@ -30,7 +30,7 @@
 
 ### Day 4: October 19, Monday
 
-**Today's Progress**: More HTML from FreeCodeCamp.org. 
+**Today's Progress**: More HTML from FreeCodeCamp.org. Attempted HackerRank 30 Days of Code Day 0 and FAILED! Better luck tomorrow
 
 **Thoughts** I feel like I am working overtime with all the projects but, as we are learning in the LEarning Sciences, I am trying to make connections and high level abstractions while doing and practicing what I am learning. I am writing a lot of HTML and very little CSS. I am looking forward to CSS and JavaScript, but markup or markdown is an important foundation that I need. I also want to make  sure that I am getting the idea of tags and shortcuts down. Getting the use of languages should carry over to what I think will be my main languages, JavaScript and Python. 
 

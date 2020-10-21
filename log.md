@@ -34,6 +34,12 @@
 
 **Thoughts** I feel like I am working overtime with all the projects but, as we are learning in the LEarning Sciences, I am trying to make connections and high level abstractions while doing and practicing what I am learning. I am writing a lot of HTML and very little CSS. I am looking forward to CSS and JavaScript, but markup or markdown is an important foundation that I need. I also want to make  sure that I am getting the idea of tags and shortcuts down. Getting the use of languages should carry over to what I think will be my main languages, JavaScript and Python. 
 
+### Day 5: October 20, Tuesday
+
+**Today's Progress**: More HTML from FreeCodeCamp.org. Continued 30 Days of Code with HackerRank using JavaScript. 
+
+**Thoughts** I am tired. It has been a long day. My coding is long but not efficient. I am going to go to sleep. Tired. Assignments for work are complete. I have thesis fixes to make and prep for Scotty's Lab. I will work on 30 Days of Code JavaScript. I need to record a video for Pitch Playoffs. I have data to review for manuscript. So much to do. Not giving up. Going to sleep and going to recharge for tomorrow. No one except for Suhit showed for Founding Hackers meeting. I think people are fatigued and exhausted. Plans for Paint and Sip tomorrow. Need it. Goodnight. Must, focus. 
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
